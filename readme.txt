@@ -5,3 +5,4 @@ so
 I do not like study a lot
 so  i do not like SVN
 what is statge
+yes  yes i coming origin/master
